@@ -9,7 +9,7 @@
            fetch="https://gitlab.com/" />
 
   <remote  name="private"
-           fetch="ssh://git@github.com" />
+           fetch="https://git@github.com" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
@@ -17,11 +17,11 @@
            revision="refs/tags/android-13.0.0_r75" />
 
   <remote  name="kenvyra"
-           fetch="ssh://git@github.com/Kenvyra"
+           fetch="https://git@github.com/Kenvyra"
            revision="refs/heads/kenvyra-13.0" />
 
   <remote  name="kenvyra-gitlab"
-           fetch="ssh://git@gitlab.com/Kenvyra"
+           fetch="https://git@gitlab.com/Kenvyra"
            revision="refs/heads/kenvyra-13.0" />
 
   <remote  name="caf"
